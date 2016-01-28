@@ -1,0 +1,19 @@
+{
+  "name": "web-project-lesson3",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "simplesphere <anoop.jeewoolall@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "scripts/lib",
+    "test",
+    "tests"
+  ]
+}
